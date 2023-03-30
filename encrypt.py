@@ -1,6 +1,6 @@
 import re
 import zlib
-from typing import TypedDict, TypeVar, cast
+from typing import TypedDict, TypeVar, cast, List as list
 
 from hint import CardData, CardEncryptedData, CardRawData
 from utils import flatten

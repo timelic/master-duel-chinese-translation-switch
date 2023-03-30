@@ -1,6 +1,6 @@
 import json
 from os import path
-from typing import Callable, Literal, NoReturn, TypedDict, Union
+from typing import Callable, Literal, NoReturn, TypedDict, Union, List as list, Dict as dict
 
 import requests
 

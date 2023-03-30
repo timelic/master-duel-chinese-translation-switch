@@ -1,4 +1,5 @@
 from hint import CardData, CardRawData, CardRawDataItem
+from typing import List as list
 
 
 # Name Desc 的 start 分别是 0 4

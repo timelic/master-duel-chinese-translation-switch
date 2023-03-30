@@ -2,7 +2,8 @@ import logging
 import os
 import sys
 from threading import Timer
-from typing import Callable, ParamSpec, TypeVar
+from typing import Callable, TypeVar, List as list
+from typing_extensions import ParamSpec
 
 
 def getFilesList(path: str) -> list[str]:

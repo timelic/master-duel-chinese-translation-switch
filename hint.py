@@ -1,4 +1,4 @@
-from typing import TypedDict, Literal
+from typing import TypedDict, Literal, Dict as dict, List as list
 
 FileName = Literal["CARD_INDX", "CARD_NAME", "CARD_DESC", "CARD_PART", "CARD_PIDX"]
 
